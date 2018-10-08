@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7030c99e0bb9546b594346c2ae135c3f, type: 3}
+  m_Name: TestSO1
+  m_EditorClassIdentifier: 
+  exampleStructs:
+  - exampleString: Manually Added value
+    exampleFloat: 100
+  - exampleString: Manually Added value
+    exampleFloat: 200
+  - exampleString: Manually Added value
+    exampleFloat: 300
